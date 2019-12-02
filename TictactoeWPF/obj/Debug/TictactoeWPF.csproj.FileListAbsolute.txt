@@ -1,0 +1,14 @@
+C:\Users\Colin.feghali\source\repos\TictactoeWPF\TictactoeWPF\bin\Debug\TictactoeWPF.exe.config
+C:\Users\Colin.feghali\source\repos\TictactoeWPF\TictactoeWPF\bin\Debug\TictactoeWPF.exe
+C:\Users\Colin.feghali\source\repos\TictactoeWPF\TictactoeWPF\bin\Debug\TictactoeWPF.pdb
+C:\Users\Colin.feghali\source\repos\TictactoeWPF\TictactoeWPF\obj\Debug\TictactoeWPF.csprojAssemblyReference.cache
+C:\Users\Colin.feghali\source\repos\TictactoeWPF\TictactoeWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Colin.feghali\source\repos\TictactoeWPF\TictactoeWPF\obj\Debug\App.g.cs
+C:\Users\Colin.feghali\source\repos\TictactoeWPF\TictactoeWPF\obj\Debug\TictactoeWPF_MarkupCompile.cache
+C:\Users\Colin.feghali\source\repos\TictactoeWPF\TictactoeWPF\obj\Debug\TictactoeWPF_MarkupCompile.lref
+C:\Users\Colin.feghali\source\repos\TictactoeWPF\TictactoeWPF\obj\Debug\MainWindow.baml
+C:\Users\Colin.feghali\source\repos\TictactoeWPF\TictactoeWPF\obj\Debug\TictactoeWPF.g.resources
+C:\Users\Colin.feghali\source\repos\TictactoeWPF\TictactoeWPF\obj\Debug\TictactoeWPF.Properties.Resources.resources
+C:\Users\Colin.feghali\source\repos\TictactoeWPF\TictactoeWPF\obj\Debug\TictactoeWPF.csproj.GenerateResource.cache
+C:\Users\Colin.feghali\source\repos\TictactoeWPF\TictactoeWPF\obj\Debug\TictactoeWPF.exe
+C:\Users\Colin.feghali\source\repos\TictactoeWPF\TictactoeWPF\obj\Debug\TictactoeWPF.pdb
